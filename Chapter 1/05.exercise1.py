@@ -18,7 +18,3 @@ print("He is\tawesome")
 
 # 4th answer 
 print("\\\" \\n \\t \\\' ")
-
-
-
-
